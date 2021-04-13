@@ -16,12 +16,12 @@ Gateway Housing First (GHF) "develops properties into affordable communities for
 - apply: public users will be able to start the application process for affordable housing 
 - analyze: nonprofit users will be able to view analytics on map and search users 
 ### Technologies
--Jave
--java script or python
--MySQL
--Google maps or QGIS 
--Gradle 
--Thymeleaf templates 
+- Java
+- javascript or python
+- MySQL
+- Google maps api or QGIS 
+- Gradle 
+- Thymeleaf templates 
 ### What I'll Have to Learn
 I will learn how to incorporate dynamic maps into an application 
 ### Project Tracker

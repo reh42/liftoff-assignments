@@ -20,4 +20,4 @@ https://trello.com/b/XQJgtRqi/liftoff
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/reh42/LiftoffHousing.git
